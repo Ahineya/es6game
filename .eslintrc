@@ -1,0 +1,16 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true,
+    "jasmine": true
+  },
+  "parser": "babel-eslint",
+  "ecmaFeatures": {
+    "modules": true
+  },
+  "rules": {
+    "quotes": [2, "single"],
+    "no-use-before-define": 0,
+    "no-console": 0
+  }
+}
